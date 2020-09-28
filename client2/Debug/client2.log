@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Code\C++\Struct\client2\源.cpp(29,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client2.vcxproj -> D:\Code\C++\Struct\client2\Debug\client2.exe

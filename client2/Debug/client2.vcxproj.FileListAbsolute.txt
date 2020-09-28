@@ -1,0 +1,2 @@
+D:\Code\C++\Struct\client2\Debug\client2.exe
+D:\Code\C++\Struct\client2\Debug\client2.pdb
